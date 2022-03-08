@@ -62,6 +62,7 @@
     #why .row {
         background-color: rgb(241, 193, 102);
         padding: 10px 10px;
+        width: 100%;
     }
     
     .row {
